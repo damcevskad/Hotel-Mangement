@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2F9165-AD30-4FFF-B9B6-58A80B7084AC}|Trial.Tests\\Trial.Tests.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.tests\\unittests\\guesttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2F9165-AD30-4FFF-B9B6-58A80B7084AC}|Trial.Tests\\Trial.Tests.csproj|solutionrelative:trial.tests\\unittests\\guesttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2F9165-AD30-4FFF-B9B6-58A80B7084AC}|Trial.Tests\\Trial.Tests.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.tests\\unittests\\roomtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2F9165-AD30-4FFF-B9B6-58A80B7084AC}|Trial.Tests\\Trial.Tests.csproj|solutionrelative:trial.tests\\unittests\\roomtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC17780-3764-4486-98F9-C5745594664B}|Trial.WebApi\\Trial.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC17780-3764-4486-98F9-C5745594664B}|Trial.WebApi\\Trial.WebApi.csproj|solutionrelative:trial.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\profiles\\roomprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\profiles\\roomprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\profiles\\guestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\profiles\\guestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\interfaces\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\interfaces\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\repositories\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\repositories\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\interfaces\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\interfaces\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.data\\trialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2CF2D-0F6C-4807-AA2D-8519E0C041A1}|Trial.Data\\Trial.Data.csproj|solutionrelative:trial.data\\trialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC17780-3764-4486-98F9-C5745594664B}|Trial.WebApi\\Trial.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC17780-3764-4486-98F9-C5745594664B}|Trial.WebApi\\Trial.WebApi.csproj|solutionrelative:trial.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC17780-3764-4486-98F9-C5745594664B}|Trial.WebApi\\Trial.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\trial.webapi\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC17780-3764-4486-98F9-C5745594664B}|Trial.WebApi\\Trial.WebApi.csproj|solutionrelative:trial.webapi\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\trial\\project.service\\dto\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0018324-3F00-40DC-AC5D-6C44D8EA6044}|Project.Service\\Trial.Service.csproj|solutionrelative:project.service\\dto\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomTest.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Tests\\UnitTests\\RoomTest.cs",
+              "RelativeDocumentMoniker": "Trial.Tests\\UnitTests\\RoomTest.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Tests\\UnitTests\\RoomTest.cs",
+              "RelativeToolTip": "Trial.Tests\\UnitTests\\RoomTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:46:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestTest.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Tests\\UnitTests\\GuestTest.cs",
+              "RelativeDocumentMoniker": "Trial.Tests\\UnitTests\\GuestTest.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Tests\\UnitTests\\GuestTest.cs",
+              "RelativeToolTip": "Trial.Tests\\UnitTests\\GuestTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:46:22.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Project.Service\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Services\\RoomService.cs",
+              "RelativeToolTip": "Project.Service\\Services\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Profiles\\RoomProfile.cs",
+              "RelativeDocumentMoniker": "Project.Service\\Profiles\\RoomProfile.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Profiles\\RoomProfile.cs",
+              "RelativeToolTip": "Project.Service\\Profiles\\RoomProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Services\\GuestService.cs",
+              "RelativeDocumentMoniker": "Project.Service\\Services\\GuestService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Services\\GuestService.cs",
+              "RelativeToolTip": "Project.Service\\Services\\GuestService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:33.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Profiles\\GuestProfile.cs",
+              "RelativeDocumentMoniker": "Project.Service\\Profiles\\GuestProfile.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Profiles\\GuestProfile.cs",
+              "RelativeToolTip": "Project.Service\\Profiles\\GuestProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Project.Service\\Interfaces\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "Project.Service\\Interfaces\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:24.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Trial.Data\\Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:20:06.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Repositories\\GuestRepository.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\Repositories\\GuestRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Repositories\\GuestRepository.cs",
+              "RelativeToolTip": "Trial.Data\\Repositories\\GuestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:19:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Trial.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.WebApi\\Program.cs",
+              "RelativeToolTip": "Trial.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:44:28.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGuestService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Interfaces\\IGuestService.cs",
+              "RelativeDocumentMoniker": "Project.Service\\Interfaces\\IGuestService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\Interfaces\\IGuestService.cs",
+              "RelativeToolTip": "Project.Service\\Interfaces\\IGuestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:20:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrialDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\TrialDbContext.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\TrialDbContext.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\TrialDbContext.cs",
+              "RelativeToolTip": "Trial.Data\\TrialDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:17:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "Trial.Data\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:17:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGuestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Interfaces\\IGuestRepository.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\Interfaces\\IGuestRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Interfaces\\IGuestRepository.cs",
+              "RelativeToolTip": "Trial.Data\\Interfaces\\IGuestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:17:31.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Entities\\Guest.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\Entities\\Guest.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Entities\\Guest.cs",
+              "RelativeToolTip": "Trial.Data\\Entities\\Guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:10:33.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Trial.Data\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.Data\\Entities\\Room.cs",
+              "RelativeToolTip": "Trial.Data\\Entities\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:10:31.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\DTO\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "Project.Service\\DTO\\RoomDTO.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\DTO\\RoomDTO.cs",
+              "RelativeToolTip": "Project.Service\\DTO\\RoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:16:19.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GuestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\DTO\\GuestDTO.cs",
+              "RelativeDocumentMoniker": "Project.Service\\DTO\\GuestDTO.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Project.Service\\DTO\\GuestDTO.cs",
+              "RelativeToolTip": "Project.Service\\DTO\\GuestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:15:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.WebApi\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Trial.WebApi\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.WebApi\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Trial.WebApi\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:34:56.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.WebApi\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "Trial.WebApi\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Trial\\Trial.WebApi\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "Trial.WebApi\\Controllers\\GuestController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:34:43.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

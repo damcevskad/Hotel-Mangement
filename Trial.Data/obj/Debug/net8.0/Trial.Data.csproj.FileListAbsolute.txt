@@ -1,0 +1,14 @@
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\bin\Debug\net8.0\Trial.Data.deps.json
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\bin\Debug\net8.0\Trial.Data.runtimeconfig.json
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\bin\Debug\net8.0\Trial.Data.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\bin\Debug\net8.0\Trial.Data.pdb
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.csproj.AssemblyReference.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.AssemblyInfoInputs.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.AssemblyInfo.cs
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.csproj.CoreCompileInputs.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\refint\Trial.Data.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.pdb
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\Trial.Data.genruntimeconfig.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Trial.Data\obj\Debug\net8.0\ref\Trial.Data.dll

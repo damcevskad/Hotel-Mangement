@@ -1,0 +1,17 @@
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\bin\Debug\net8.0\Trial.Service.deps.json
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\bin\Debug\net8.0\Trial.Service.runtimeconfig.json
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\bin\Debug\net8.0\Trial.Service.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\bin\Debug\net8.0\Trial.Service.pdb
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\bin\Debug\net8.0\Trial.Data.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\bin\Debug\net8.0\Trial.Data.pdb
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.csproj.AssemblyReference.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.AssemblyInfoInputs.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.AssemblyInfo.cs
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.csproj.CoreCompileInputs.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Se.88366A59.Up2Date
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\refint\Trial.Service.dll
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.pdb
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\Trial.Service.genruntimeconfig.cache
+C:\Users\zikov\OneDrive\Desktop\Trial\Project.Service\obj\Debug\net8.0\ref\Trial.Service.dll
